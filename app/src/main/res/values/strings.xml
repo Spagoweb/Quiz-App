@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">"Quiz App "</string>
+    <!-- intro -->
+    <string name="intro">Do you know everything about japanese animation or manga? Test your knowledge: 5 points each right answer. Let\'s start right now!</string>
+    <!-- questions one -->
+    <string name="question_one">1) What is the right direction of manga reading?</string>
+    <string name="q1_a1">Right to left</string>
+    <string name="q1_a2">Left to right</string>
+    <!-- questions two -->
+    <string name="question_two">2) In Ranma manga, what turns Akane\'s father when he is thrown into the water?</string>
+    <string name="q2_a1">In woman</string>
+    <string name="q2_a2">In the dog</string>
+    <string name="q2_a3">It does not change</string>
+    <!-- questions three -->
+    <string name="question_three">3) Who are the main characters of Fullmetal Alchemist?</string>
+    <string name="q3_a1">Winry</string>
+    <string name="q3_a2">Edward</string>
+    <string name="q3_a3">Mustang</string>
+    <string name="q3_a4">Alphonse</string>
+    <!-- questions three -->
+    <string name="question_four">4) What color does Arale\'s hair have in Dr. Slump\'s manga?</string>
+    <!-- questions five -->
+    <string name="question_five">5) Which of these main characters, in Hokuto No Ken, are not Brothers of Blood?</string>
+    <string name="q5_a1">Kenshiro</string>
+    <string name="q5_a2">Hyo</string>
+    <string name="q5_a3">Raoul</string>
+    <!-- questions six -->
+    <string name="question_six">6) What manga was inspired by the reading of the Divine Comedy illustrated by Gustave Doré?</string>
+    <string name="q6_a1">Mao Dante</string>
+    <string name="q6_a2">Devilman</string>
+    <string name="q6_a3">JoJo\'s bizarre adventures</string>
+    <!-- show score -->
+    <string name="show_score">Show your score</string>
+</resources>
